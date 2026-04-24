@@ -1,2 +1,13 @@
 # Ai-Website-Project-ai-travel--agency
-"An AI-based travel agency website that helps users plan trips, explore destinations, and get smart travel suggestions."
+### 🛠 AI Tool Used
+- **Lovable AI** (For website structure and generation)
+
+### 🌟 Key Features
+- AI-driven destination exploration.
+- Smart travel suggestions.
+- Interactive UI for trip planning.
+
+### 🎓 Course Details
+- **University:** Superior University
+- **Instructor:** Aleena Aslam
+-
